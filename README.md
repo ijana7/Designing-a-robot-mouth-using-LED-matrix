@@ -4,7 +4,7 @@
 This project demonstrates how to design a robot mouth using an LED matrix. The LED matrix is controlled by an Arduino board and the MAX7219 chip, which allows for easy control of the individual LEDs. The project includes a simple animation of a smiling face on the LED matrix.
 
 ## the link
-https://wokwi.com/projects/318864638990090834
+https://wokwi.com/projects/318864638990090834 (with explanation)
 
 
 <img width="1710" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٩ في ٢ ٤٨ ٥٠ ص" src="https://github.com/user-attachments/assets/8a63f355-b982-44ea-b13d-4c5de099b2e8">
